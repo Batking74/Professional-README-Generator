@@ -58,15 +58,15 @@ function generateMarkdown(data) {
   ## Description
   ${data.description}
 
-  ## Table of Contents (Optional)
+  ## Table of Contents
   - [Usage](#Usage)
-  - [Questions](#Questions)
+  - [Questions](#hi)
   - [License](#License)
   - [Credits](#Credits)
   - [Tests](#Tests)
 
 
-  ## Questions
+  # Questions
   - What was my motivation? ${data.question1}
   - Why did I build this project? ${data.question2}
   - What problem does ${data.title} solve? ${data.question3}
