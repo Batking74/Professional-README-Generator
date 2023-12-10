@@ -1,10 +1,11 @@
 # Professional README Generator
+![Image of Nazirs Professional README Generator](./Assets/Professional-README-Generator.png)
 
 # Description
 Welcome To The README.Md Generator! This Command-Line Application Streamlines The Process Of Creating A Professional README For Your Projects. It Prompts You For Essential Information About Your Application, Such As A Project Title, Description, Installation Instructions, Usage Details, Contribution Guidelines, And Test Instructions. Choose A License From A List Of Options, And The Generator Will Automatically Add A Corresponding Badge And Notice To The README. Additionally, It Includes Sections For Questions, Providing Links To Your GitHub Profile And Contact Information.
 
-![Image of Nazirs Professional README Generator](./Professional-README-Generator.png)
-![Image of Nazirs Professional README Generator Video](./Professional-README-Generator.png)
+[![Image of Nazirs Professional README Generator Video](./Assets/Professional-README-Generator.png)](./Assets/Professional-README-Generator%202023-12-09.mp4)
+
 
 - Motivation: Enhance personal project development process, Create a tool for efficient README file generation.
 
